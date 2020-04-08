@@ -1,2 +1,5 @@
-# 2020_04_MachineLearning_R_Spark
-Charla: Desarrollo de un caso de Machine Learning usando Spark y R
+# Charla: Desarrollo de un caso de Machine Learning usando Spark y R 
+Por: R Xavier Merchán Ponce
+miércoles 8 abril | 7pm UTC -5
+
+Seguimos con nuestras charlas gratuitas, el día de hoy les traemos el desarrollo de un caso de predicción usando R + Spark.
